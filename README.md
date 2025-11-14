@@ -1,1 +1,2 @@
 # MyNote
+ini catatan
